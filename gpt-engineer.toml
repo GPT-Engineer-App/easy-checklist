@@ -1,0 +1,5 @@
+[gptengineer-app]
+project_id = "e24b634b-173f-4a59-acaf-4c20faa4ee26"
+
+[[gptengineer-app.openapi]]
+url = "https://backengine-zq2g.fly.dev/openapi.json"
